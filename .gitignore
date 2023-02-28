@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+cityscapes
+*.zip
+*.npz
+*.pth
+*.json
+checkpoints/
+RoadAnomaly/
+workdir
+pip-*
